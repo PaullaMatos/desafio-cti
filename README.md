@@ -100,7 +100,6 @@ docs/
   cenarios-de-teste.md
   evidencias.md
   melhorias-sugeridas.md
-  melhorias-executadas.md
 cypress.config.ts
 package.json
 .env.example
