@@ -110,7 +110,7 @@ package.json
 - Sem `data-testid` nativo, os seletores priorizam `id`, `name`, `href` e texto controlado.
 - Alguns comportamentos sao dinamicos por massa de dados do ambiente (ex.: ausencia de dados em relatorios).
 - A leitura textual profunda de PDF nao foi usada como criterio obrigatorio para evitar fragilidade; a validacao foca em status, tipo de conteudo e assinatura `%PDF-`.
-- O repositorio inicial estava vazio (sem `.codex`, `AGENTS.md`, `README.md`, `package.json` e configs).
+- O projeto foi estruturado do zero para atender ao desafio, com organização por fluxos funcionais, documentação de execução e suporte à geração de evidências.
 
 ## 13. Divergencias encontradas no desafio
 - HU05 no PDF repete texto da HU04, mas o fluxo real e diferente:
