@@ -3,7 +3,6 @@
 .env.local
 cypress.env.json
 
-cypress/videos/
 cypress/screenshots/
 cypress/downloads/
 
