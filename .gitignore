@@ -1,0 +1,17 @@
+﻿node_modules/
+.env
+.env.local
+cypress.env.json
+
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+cypress/reports/mochawesome/
+cypress/reports/html/
+cypress/reports/merged/
+cypress/reports/audit/
+
+.DS_Store
+Thumbs.db
+docs/

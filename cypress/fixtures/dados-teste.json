@@ -1,0 +1,15 @@
+{
+  "areaComDados": "ADNIS",
+  "periodoComDados": {
+    "inicial": "2025-01-01",
+    "final": "2026-12-31"
+  },
+  "periodoSemDados": {
+    "inicial": "2100-01-01",
+    "final": "2100-12-31"
+  },
+  "mensagensEsperadas": {
+    "loginInvalido": "Email ou senha invalidos",
+    "alertaGerarTermo": "Selecione um tipo de Termo e uma ou mais Atribuicoes"
+  }
+}
